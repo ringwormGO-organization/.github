@@ -1,6 +1,10 @@
 # ringwormGO
-Hello this is a small project (organization) where we experimenting/learning how to code. Most of our stuff is made using Visual Studio 2019/VS Code.
 
-If you have a suggestion or a problem you want to report feel free to contact us at ringwormgo@gmail.com or create issue for a problem.
+A non-profit software development group. Most of our work is written in C/C++ on GNU/Linux.
 
-Check out [our website](https://ringwormgo-web.ringwormgo.repl.co/) and/or [YouTube channel](https://www.youtube.com/channel/UC87hNTN-6ahkRfHPs0iVfTg/featured).
+If you have a suggestion contact the offical mail account of ringwormGO: ringwormgo@gmail.com
+
+For any issues/bugs report them on the projects repository.
+
+[Website](https://ringwormgo-web.ringwormgo.repl.co/)
+[Youtube](https://www.youtube.com/channel/UC87hNTN-6ahkRfHPs0iVfTg/featured)

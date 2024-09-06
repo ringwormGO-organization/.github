@@ -8,12 +8,8 @@ For any issues/bugs and suggestions, contact us at project's repository.
 
 <hr>
 
-[Website](https://ringwormgo-organization.github.io/)
+[Website](https://ringwormgo-organization.github.io/) | [Codeberg](https://codeberg.org/ringwormGO)
 
-[Codeberg](https://codeberg.org/ringwormGO)
+[Youtube](https://www.youtube.com/channel/UC87hNTN-6ahkRfHPs0iVfTg/featured) | [Discord](https://discord.gg/zyzbdrDRQF)
 
-[Youtube](https://www.youtube.com/channel/UC87hNTN-6ahkRfHPs0iVfTg/featured)
-
-[Discord](https://discord.gg/zyzbdrDRQF)
-
-[Matrix](https://matrix.to/#/#ringwormgo:matrix.org)
+[Matrix](https://matrix.to/#/#ringwormgo:matrix.org) | [Mail](mailto:ringwormgo@gmail.com)

@@ -1,10 +1,10 @@
 # ringwormGO
 
-A non-profit software development project. Most of our work is written in C/C++ on GNU/Linux.
+A non-profit software development group.
 
-If you have a suggestion contact the offical mail account of ringwormGO: ringwormgo@gmail.com
+Most of our work is focused on low level projects and desktop applications.
 
-For any issues/bugs report them on the projects repository.
+For any issues/bugs and suggestions, contact us at project's repository.
 
 <hr>
 

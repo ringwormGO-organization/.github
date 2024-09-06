@@ -10,4 +10,10 @@ For any issues/bugs and suggestions, contact us at project's repository.
 
 [Website](https://ringwormgo-organization.github.io/)
 
+[Codeberg](https://codeberg.org/ringwormGO)
+
 [Youtube](https://www.youtube.com/channel/UC87hNTN-6ahkRfHPs0iVfTg/featured)
+
+[Discord](https://discord.gg/zyzbdrDRQF)
+
+[Matrix](https://matrix.to/#/#ringwormgo:matrix.org)

@@ -1,6 +1,6 @@
 # ringwormGO
 
-**:warning: ringwormGO is closed as of May 23, 2025!**
+**:warning: ringwormGO won't receive any new projects as of May 23, 2025!**
 
 A non-profit software development group.
 

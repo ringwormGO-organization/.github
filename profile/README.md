@@ -1,7 +1,5 @@
 # ringwormGO
 
-**:warning: ringwormGO will not receive any new projects as of May 23, 2025!**
-
 A non-profit software development group.
 
 Most of our work is focused on low level projects and desktop applications.

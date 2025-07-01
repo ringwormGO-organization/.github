@@ -8,6 +8,8 @@ For any issues/bugs and suggestions, contact us at project's repository.
 
 <hr>
 
+[B.A.G.E.R. (Basic Autonomous Ground Excavation Robot) is an autonomous excavator robot featuring full project documentation parser](https://github.com/bager-project)
+
 [Website](https://ringwormgo-organization.github.io/) | [Codeberg](https://codeberg.org/ringwormGO)
 
 [Youtube](https://www.youtube.com/channel/UC87hNTN-6ahkRfHPs0iVfTg/featured) | [Discord](https://discord.gg/zyzbdrDRQF)

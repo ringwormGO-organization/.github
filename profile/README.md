@@ -1,5 +1,7 @@
 # ringwormGO
 
+**:warning: ringwormGO is closed!**
+
 A non-profit software development group.
 
 Most of our work is focused on low level projects and desktop applications.

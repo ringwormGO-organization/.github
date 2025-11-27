@@ -18,4 +18,6 @@ For any issues/bugs and suggestions, contact us at project's repository.
 
 <hr>
 
-[B.A.G.E.R.](https://github.com/bager-project) is an autonomous excavator robot featuring full project documentation parser
+[B.A.G.E.R.](https://github.com/bager-project) - an autonomous excavator robot featuring full project documentation parser
+
+[Lithicsoft Organization](https://github.com/Lithicsoft) - a small non-profit organization dedicated to building accessible and user-friendly software solutions
